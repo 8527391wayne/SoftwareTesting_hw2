@@ -1,0 +1,16 @@
+﻿已經開始建置於 2017/5/4 上午 06:37:54。
+     1>節點 2 (Build 目標) 上的專案 "D:\SoftwareTesting\hw2\TriangleProblem\UnitTest_pathtest_C012_MCDC\UnitTest_pathtest_C012_MCDC.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\UnitTest_pathtest_C012_MCDC.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt UnitTest_pathtest_C012_MCDC.cpp
+         UnitTest_pathtest_C012_MCDC.cpp
+     1>d:\softwaretesting\hw2\googletest\include\gtest\internal\gtest-internal.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\SoftwareTesting\hw2\TriangleProblem\Debug\UnitTest_pathtest_C012_MCDC.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\SoftwareTesting\hw2\TriangleProblem\Debug\UnitTest_pathtest_C012_MCDC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\SoftwareTesting\hw2\TriangleProblem\Debug\UnitTest_pathtest_C012_MCDC.lib" /MACHINE:X86 Debug\stdafx.obj
+         Debug\UnitTest_pathtest_C012_MCDC.obj
+         D:\SoftwareTesting\hw2\TriangleProblem\Debug\GoogleTest.lib
+         UnitTest_pathtest_C012_MCDC.vcxproj -> D:\SoftwareTesting\hw2\TriangleProblem\Debug\UnitTest_pathtest_C012_MCDC.exe
+     1>專案 "D:\SoftwareTesting\hw2\TriangleProblem\UnitTest_pathtest_C012_MCDC\UnitTest_pathtest_C012_MCDC.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:03.66

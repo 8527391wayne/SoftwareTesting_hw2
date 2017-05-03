@@ -1,0 +1,18 @@
+﻿已經開始建置於 2017/3/17 下午 07:52:35。
+     1>節點 2 (Build 目標) 上的專案 "D:\SoftwareTesting\hw1\TriangleProblem\TriangleProblem\TriangleProblem.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\TriangleProblem.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\TriangleProblem.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt TriangleProblem.cpp
+         TriangleProblem.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\SoftwareTesting\hw1\TriangleProblem\Release\TriangleProblem.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\SoftwareTesting\hw1\TriangleProblem\Release\TriangleProblem.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\SoftwareTesting\hw1\TriangleProblem\Release\TriangleProblem.lib" /MACHINE:X86 /SAFESEH Release\stdafx.obj
+         Release\TriangleProblem.obj
+         正在產生程式碼
+         已完成程式碼產生
+         TriangleProblem.vcxproj -> D:\SoftwareTesting\hw1\TriangleProblem\Release\TriangleProblem.exe
+     1>專案 "D:\SoftwareTesting\hw1\TriangleProblem\TriangleProblem\TriangleProblem.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:02.52
